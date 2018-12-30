@@ -18,4 +18,7 @@ def last_element(a)
   a.last
 end
   
+def first_element_with_array_methods(a)
+  a.first
+end
   
