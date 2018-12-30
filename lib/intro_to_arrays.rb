@@ -8,3 +8,5 @@ end
 
 def first_element
   a = ["object1", "Object2", "object3"]
+  a.first
+end
