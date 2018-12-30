@@ -13,5 +13,8 @@ end
 def third_element(a)
   a.index[2]
 end
+
+def last_element(a)
+  a.pop
   
   
