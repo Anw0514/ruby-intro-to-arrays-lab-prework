@@ -16,5 +16,6 @@ end
 
 def last_element(a)
   a.last
+end
   
   
