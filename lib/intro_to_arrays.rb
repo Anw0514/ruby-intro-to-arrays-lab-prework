@@ -11,7 +11,7 @@ def first_element(a)
 end
 
 def third_element(a)
-  a.index[2]
+  a[2]
 end
 
 def last_element(a)
