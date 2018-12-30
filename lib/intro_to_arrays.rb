@@ -14,5 +14,6 @@ end
 def third_element
   a = ["object1", "Object2", "object3", "Object4"]
   a.index[2]
+end
   
   
