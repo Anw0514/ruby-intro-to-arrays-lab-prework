@@ -15,6 +15,6 @@ def third_element(a)
 end
 
 def last_element(a)
-  a.pop
+  a.last
   
   
