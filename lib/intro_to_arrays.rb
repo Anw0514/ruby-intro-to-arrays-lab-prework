@@ -10,8 +10,7 @@ def first_element(a)
   a.first
 end
 
-def third_element
-  a = ["object1", "Object2", "object3", "Object4"]
+def third_element(a)
   a.index[2]
 end
   
